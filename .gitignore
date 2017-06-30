@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CATzureRedisCache/bin/Debug
+/CATzureRedisCache/obj
+/CATzureRedisCache/obj/Debug
+/CATzureRedisCache/obj/Release
+/.vs
